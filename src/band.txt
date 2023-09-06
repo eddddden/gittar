@@ -1,0 +1,4 @@
+Band A|https://banda.com|rock,pop
+Band B|https://bandb.com|pop
+Band C|https://bandc.com|rocK
+Band D|https://bandc.com|rock
